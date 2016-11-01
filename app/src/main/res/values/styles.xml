@@ -1,0 +1,27 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@android:color/white</item>
+        <item name="colorControlNormal">@android:color/white</item>
+
+        <item name="android:windowBackground">@color/colorPrimary</item>
+        <item name="android:textAppearanceLarge">@style/TextAppearance.AppCompat.Large.Inverse</item>
+        <item name="android:textAppearanceSmall">@style/TextAppearance.AppCompat.Small.Inverse</item>
+        <item name="android:buttonStyle">@style/AppTheme.NoActionBar.ButtonStyle</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar.ButtonStyle" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:background">@drawable/btn_material_dark</item>
+    </style>
+
+    <style name="AppTheme.LargeScore" parent="TextAppearance.AppCompat.Large">
+        <item name="android:gravity">center</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Large</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/bg_findme_circle</item>
+    </style>
+
+</resources>

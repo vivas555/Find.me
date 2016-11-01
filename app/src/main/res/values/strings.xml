@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Find.me</string>
+    <string name="DebutActivite">First, we need to know who you are. Please press this button to scan the barcode on your shirt. Then, the activity will immediately start.</string>
+    <string name="OrdreIdentification">Identify yourself!</string>
+    <string name="JoueurPasInscrit">You are not on our list for this activity, please try again</string>
+    <string name="JoueurInscrit">Your are ready to play, have fun !</string>
+    <string name="MauvaisJoueur">This is not the right student! Try another one.</string>
+    <string name="TitreFin">It\'s over!</string>
+    <string name="TexteFin">Please wait for the others to finish. You can also retry if you believe you can do better.</string>
+    <string name="text_vousDevezTrouvez">You must find</string>
+    <string name="BoutonFin">Retry</string>
+    <string name="ErreurConnexion">Cannot establish connection to the server. Please make sure you are connected to a network.</string>
+    <string name="MenuPrincipal">Main menu</string>
+    <string name="TempsRestantPourEtudiant">You have </string>
+    <string name="Reste">left</string>
+    <string name="TempsActivite">Whole activity ends in </string>
+</resources>

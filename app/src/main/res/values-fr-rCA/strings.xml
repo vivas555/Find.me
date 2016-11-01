@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Find.me</string>
+    <string name="DebutActivite">Premièrement, nous devons savoir qui vous êtes. Appuyez sur le bouton et scannez votre code barre. Ensuite, l\'activité commencera automatiquement.</string>
+    <string name="OrdreIdentification">Identifiez-vous !</string>
+    <string name="JoueurPasInscrit">Vous n\'êtes pas sur notre liste pour cette activité. Veuillez réassayez</string>
+    <string name="JoueurInscrit">Vous êtes prêt à jouer. Bonne chance !</string>
+    <string name="MauvaisJoueur">Ce n\'est pas le bon étudiant! Essayez-en un autre.</string>
+    <string name="TitreFin">C\'est terminé!</string>
+    <string name="TexteFin">Veuillez attendre que les autres aient terminé. Vous pouvez aussi réessayer si vous croyez pouvoir faire mieux.</string>
+    <string name="text_vousDevezTrouvez">Vous devez trouver</string>
+    <string name="BoutonFin">Réessayer</string>
+    <string name="ErreurConnexion">Impossible de se connecter au serveur. Veuillez vous assurez que vous êtes connecté à un réseau.</string>
+    <string name="MenuPrincipal">Menu principal</string>
+    <string name="TempsRestantPourEtudiant">Il vous reste </string>
+    <string name="Reste"> </string>
+    <string name="TempsActivite">L\'activité se termine dans </string>
+</resources>
